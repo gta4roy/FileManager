@@ -1,0 +1,9 @@
+com/springboot/training/configuration/SecurityConfig.class
+com/springboot/training/filemanager/FilemanagerApplication.class
+com/springboot/training/filemanager/controller/BookController.class
+com/springboot/training/filemanager/controller/BookIdMismatchException.class
+com/springboot/training/filemanager/controller/SimpleController.class
+com/springboot/training/model/Book.class
+com/springboot/training/filemanager/controller/RestExceptionHandler.class
+com/springboot/training/filemanager/controller/BookNotFoundException.class
+com/springboot/training/repository/BookRepository.class
